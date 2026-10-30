@@ -1,2 +1,12 @@
-# Elemental-PvP3
-Roblox Elemental Fighting Game
+# Elemental: PvP
+
+Juego de combate PvP basado en elementos.
+
+## Elementos iniciales
+- Fuego
+- Agua
+- Tierra
+- Aire
+
+## Estado del proyecto
+En desarrollo.
